@@ -1,2 +1,3 @@
 Test new project
 add str branch dv
+add str remove
