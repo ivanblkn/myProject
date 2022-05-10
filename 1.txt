@@ -3,3 +3,5 @@ add str branch dv
 add str remove
 add new str local
  add str kraken
+
+ add newm
