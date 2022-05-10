@@ -5,3 +5,5 @@ add new str local
  add str kraken
 
  add newm
+
+test stage
